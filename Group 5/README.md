@@ -1,7 +1,22 @@
-# 👋 Welcome, Freshers!
+# Увод в програмирането 2026/27
 
-Добре дошли! 🎉
+_Материали на група 5_
 
-Сканирайте и попълнете въпросника: https://docs.google.com/forms/d/e/1FAIpQLSeU2qx91h-5aT-qY3PhFL-BcB10HAAM-yxowxyzdZowYSwZKg/viewform?usp=header
+### Учебен план
 
-<img width="500" height="400" alt="opoznavane" src="https://github.com/user-attachments/assets/08386547-013d-497d-be8f-f1febcc750a0" />
+| Седмица                                                                                                                             | Теми                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[01 & 02](https://github.com/darimachine/Introduction-To-Programming-FMI-2026-27/tree/main/Group%205/Week%201%20%26%20Week%202)** | Увод в програмирането със C++. Среда за разработка (IDE). Примитивни типове данни. Основни аритметични операции. Вход и изход. Условни оператори. Git и GitHub. |
+
+### Допълнителни материали
+
+Задачи:
+
+- [Задачи за упражнение](https://github.com/telinc1/Introduction-To-Programming-Problems)
+    - [Архив: Задачи от контролни и изпити](https://github.com/telinc1/Introduction-To-Programming-Problems/tree/master/resources/tasks/archives)
+
+Документация:
+
+- [cplusplus.com](https://cplusplus.com/reference/)
+- [cppreference.com](https://en.cppreference.com/w/)
+- [Learn C++](https://www.learncpp.com)
